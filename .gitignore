@@ -1,0 +1,15 @@
+# Environnements virtuels
+.venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et modèles (trop lourds pour Git)
+data/
+*.pt
+*.pth
+*.ckpt
